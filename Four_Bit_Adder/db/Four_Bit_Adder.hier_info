@@ -1,0 +1,61 @@
+|Four_Bit_Adder
+a[0] => FA:gen:0:uut.a
+a[1] => FA:gen:1:uut.a
+a[2] => FA:gen:2:uut.a
+a[3] => FA:gen:3:uut.a
+b[0] => FA:gen:0:uut.b
+b[1] => FA:gen:1:uut.b
+b[2] => FA:gen:2:uut.b
+b[3] => FA:gen:3:uut.b
+cin => FA:gen:0:uut.c_in
+s[0] << FA:gen:0:uut.s
+s[1] << FA:gen:1:uut.s
+s[2] << FA:gen:2:uut.s
+s[3] << FA:gen:3:uut.s
+cout << FA:gen:3:uut.c_out
+
+
+|Four_Bit_Adder|FA:\gen:0:uut
+a => s.IN0
+a => c_out.IN0
+b => s.IN1
+b => c_out.IN1
+c_in => s.IN1
+c_in => c_out.IN1
+s <= s.DB_MAX_OUTPUT_PORT_TYPE
+c_out <= c_out.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Four_Bit_Adder|FA:\gen:1:uut
+a => s.IN0
+a => c_out.IN0
+b => s.IN1
+b => c_out.IN1
+c_in => s.IN1
+c_in => c_out.IN1
+s <= s.DB_MAX_OUTPUT_PORT_TYPE
+c_out <= c_out.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Four_Bit_Adder|FA:\gen:2:uut
+a => s.IN0
+a => c_out.IN0
+b => s.IN1
+b => c_out.IN1
+c_in => s.IN1
+c_in => c_out.IN1
+s <= s.DB_MAX_OUTPUT_PORT_TYPE
+c_out <= c_out.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Four_Bit_Adder|FA:\gen:3:uut
+a => s.IN0
+a => c_out.IN0
+b => s.IN1
+b => c_out.IN1
+c_in => s.IN1
+c_in => c_out.IN1
+s <= s.DB_MAX_OUTPUT_PORT_TYPE
+c_out <= c_out.DB_MAX_OUTPUT_PORT_TYPE
+
+

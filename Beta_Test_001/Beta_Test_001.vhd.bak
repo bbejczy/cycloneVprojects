@@ -1,0 +1,15 @@
+library IEEE;
+use IEEE.STD_LOGIC_1164.ALL;
+
+entity video_demo1 is 
+	Port (switch : in STD_LOGIC;
+			led: out STD_LOGIC);
+end video_demo1;
+
+architecture Behavioural of video_demo1 is
+
+begin
+
+	led <= switch;
+
+end Behavioral;
