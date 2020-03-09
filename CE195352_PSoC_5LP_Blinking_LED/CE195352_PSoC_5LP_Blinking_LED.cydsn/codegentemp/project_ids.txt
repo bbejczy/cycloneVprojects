@@ -1,0 +1,7 @@
+C:\Users\bence\Documents\PSoC Creator\CE195352_PSoC_5LP_Blinking_LED\CE195352_PSoC_5LP_Blinking_LED.cydsn\CE195352_PSoC_5LP_Blinking_LED.cyprj|7720cd89-b75f-4070-9157-339579e24f9c
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|c741796e-80f6-477a-ad37-ba6f911e91f8
+C:\Users\bence\Documents\PSoC Creator\4.2\Downloads ( 4.2).cylib\Downloads ( 4.2).cyprj|4fd0d505-52fd-4db6-9ae3-02cde00d90b5
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|c663b8c7-e0d8-440c-9c59-91fc04a3bcee
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|3f0972af-a929-4615-adb7-3b70732b0055
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|3191e980-d1ed-4cbc-bf32-600e327fbecd
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\default\CyReferenceLibrary\CyReferenceLibrary.cylib\CyReferenceLibrary.cyprj|483e6837-642f-4689-bbc6-983a0d9bcf96
